@@ -1,5 +1,13 @@
-#prof {
+header {
     background: url("../images/Hello.jpg");
+    background-size: cover;
     height: 200px;
     width: 200px;
+}
+body {
+    font-family: 'Griffy', cursive;
+    font-size: 20px;
+}
+.asd {
+    color: Blue;
 }
